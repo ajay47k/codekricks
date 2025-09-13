@@ -2,10 +2,6 @@
 
 Codekricks is a modern, shareable code editor and snippet hub. Write in 10+ languages, run code in the browser, share snippets with comments, and upgrade to Pro for more. Built with Next.js 15, Convex, Clerk, and Monaco.
 
-<p align="center">
-	<img src="./public/screenshot-for-readme.png" alt="Codekricks Screenshot" width="820" />
-</p>
-
 ## Highlights
 
 - Next.js 15 (App Router) + TypeScript
